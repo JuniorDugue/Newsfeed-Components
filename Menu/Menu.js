@@ -11,4 +11,4 @@ const menuButton = document.querySelector(".menu-button");
 // Using your menuButton reference, add a click handler that calls toggleMenu
 menuButton.addEventListener("click", toggleMenu);
 
-TweenMax.from(".menu", 5, {left:-1000});
+TweenMax.from(".menu", 6, {left:-1000});
